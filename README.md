@@ -3,7 +3,7 @@
 Sample Neural Network codes for sharing and better understanding.
 
 Code List:
-1. anup_cl: CA simple competitive learning code. Dataset: IRIS. 
+1. anup_cl: A simple competitive learning code. Dataset: IRIS. 
 
 
 
