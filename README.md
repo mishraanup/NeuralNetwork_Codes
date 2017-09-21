@@ -4,6 +4,7 @@ Sample Neural Network codes for sharing and better understanding.
 
 Code List:
 1. anup_cl: A simple competitive learning code. Dataset: IRIS. 
+2. anup_som: 1D Lattice self organizing map for IRIS data. 
 
 
 
