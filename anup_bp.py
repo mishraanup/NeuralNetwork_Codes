@@ -1,6 +1,6 @@
 """
 Author: Anup Mishra
-Code: Competitive Learning
+Code: BP
 """
 
 from __future__ import print_function
