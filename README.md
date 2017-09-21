@@ -9,6 +9,4 @@ Code List:
 
 
 
-NOTE: These codes can be improved in many different ways. Feel Free to play ewith them. 
-
 REF: Inspired By - https://iamtrask.github.io/2015/07/12/basic-python-network/
